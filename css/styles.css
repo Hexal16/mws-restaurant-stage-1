@@ -182,6 +182,12 @@ nav h1 a {
   text-transform: uppercase;
 }
 
+.middle_content {
+  display: flex;
+  flex-wrap: wrap;
+  width: 50%;
+}
+
 /* ====================== Restaurant Details ====================== */
 .inside header {
   position: fixed;
